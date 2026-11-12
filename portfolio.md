@@ -4,11 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[Download](/assets/files/CV___Isaac_Godman.pdf)
-
-# Isaac Godman
-
-[Isaac.Godman.21@gmail.com](mailto:Isaac.Godman.21@gmail.com)
+[Download]({{ /assets/files/CV___Isaac_Godman.pdf | relative_url }})
 
 ## Education
 
