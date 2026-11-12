@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-[Download]({{ /assets/files/CV___Isaac_Godman.pdf | relative_url }})
+[Download]({{ "/assets/files/CV___Isaac_Godman.pdf" | relative_url }})
 
 ## Education
 
